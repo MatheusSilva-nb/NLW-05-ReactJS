@@ -1,48 +1,48 @@
-<div align="center">
+<h1 align="center">
+  <img alt="podcastr" title="podcastr" src=".github/logo.png" />
+</h1>
 
-# Next Level Week 5 Rocketseat - ReactJs
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=000000">
 
-![Nextjs](https://img.shields.io/badge/-Nextjs-000000?style=flat-square&logo=next.js&logoColor=white "Next.js")
-![React](https://img.shields.io/badge/-React-1572B6?style=flat-square&logo=react&logoColor=white "React")
-![Typescript](https://img.shields.io/badge/-Typescript-1572B6?style=flat-square&logo=typescript&logoColor=white "Typescript")
-![SASS](https://img.shields.io/badge/-SASS-BF4080?style=flat-square&logo=sass&logoColor=white "SASS")
+ <img src="https://img.shields.io/static/v1?label=NLW&message=05&color=8257E5&labelColor=000000" alt="NLW 05" />
+</p>
 
-A **Next Level Week** é um evento da **Rocketseat** de imersão em tecnologia. Onde é uma semana de aulas com conteúdos incríveis e uma comunidade bem massa de se fazer network. Nesse evento há diversas tecnologias, esta por exemplo é a trilha de **ReactJs**.
+<br>
 
-![Banner](./.github/NLW05_banner.png)
+<p align="center">
+  <img alt="Podcastr" src=".github/podcastr.png" width="100%">
+</p>
 
-_#juntosparaoproximonivel_
+## ✨ Tecnologias
 
-![Spaceship](./.github/NLW05_espaconave.jpg)
+Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-## Proposta do projeto NLW5 ReactJs
+- [React](https://reactjs.org)
+- [Next.js](https://nextjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
 
-A proposta deste projeto é desenvolver um app de podcast com as tecnologias `Next.js`, `ReactJs` e `Typescript`.
+## 💻 Projeto
 
-## Conteúdo
+O podcastr é um app para reprodução de episódios em áudio do seu podcast favorito.
 
-**Dia 1**
+## 🔖 Layout
 
-O primeiro dia foi para apresentar as tecnologias `Next.js`, `React` e `Typescript`. Além de explicar sobre o projeto a ser desenvolvido e a respeito de componentes no `React` e sobre `Server-Side Rendering (SSR)` e `Static Site Generation (SSG)`.
+Você pode visualizar o layout do projeto através [desse link](https://www.figma.com/file/UwFEntsHpHYJlHNQAQr4gA/Podcastr/duplicate). É necessário ter conta no [Figma](http://figma.com/) para acessá-lo.
 
-**Dia 2**
+## 🚀 Como executar
 
-O segundo dia foi de explicação de como utilizar o `Typescript` no `React` e também foi criado dois componentes, o _header_ e o _player_ que estará presente em boa parte das telas.
+- Clone o repositório
+- Instale as dependências com `yarn`
+- Inicie a fake api com `yarn server`
+- Inicie o servidor com `yarn dev`
 
-**Dia 3**
+Agora você pode acessar [`localhost:3000`](http://localhost:3000) do seu navegador.
 
-O terceiro dia foi para a gente finalizar a tela principal (_index_), fazer a tela de _episode_, onde podemos ver informações sobre o episódio e fazer a rota da página _index_ para a página de _episode_.
+## 📄 Licença
 
-**Dia 4**
-
-No quarto e penúltimo dia a gente aprendeu muita coisa, vimos sobre o `Context` no `React`, sobre as `Ref's` de um componente _HTML_ no `React` e além disso a gente concluiu a parte de controle de _play_ e _pause_ do podcast.
-
-**Dia 5**
-
-No último dia a gente concluiu a aplicação do podcast, implementando os controles do _player_ (_next_, _previous_, _loop_, _shuffle_ e o _slider_).
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 ---
 
-Agradecimento à **Rocketseat** 🚀 pelo evento incrível!💜
-
-_Matheus Ishiyama_
+Feito com ♥ by Rocketseat 👋🏻 [Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
