@@ -9,11 +9,11 @@ export function Header() {
 
     return (
         <header className={styles.headerContainer}>
-            <img src="/logo.svg" alt="Podcastr" />
+            <img style={{width: '100px', height: '100px'}} src="/tl.png" alt="turinglegion" />
 
-            <p>O melhor para você ouvir, sempre</p>
+            <p style={{color: '#ccc'}}>TuringCast um podcast de tecnologia</p>
 
-            <span>{currentDate}</span>
+            <span style={{color: '#ccc'}}>{currentDate}</span>
         </header>
     );
 }
